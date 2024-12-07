@@ -1,4 +1,4 @@
-with open('HHinput.txt', 'r') as f:
+with open('day1', 'r') as f:
     left = []
     right = []
     s = 0
